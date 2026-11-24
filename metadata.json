@@ -1,0 +1,6 @@
+{
+  "name": "Marco AI",
+  "description": "Futuristic Hindi, English & Hinglish personal AI voice assistant for Sanni Kumar with Gemini AI, voice control, device actions, accessibility automation, and floating orb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

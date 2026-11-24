@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marco AI</string>
+    <string name="accessibility_service_label">Marco AI Screen Control</string>
+    <string name="accessibility_service_description">Allows Marco AI to read visible screen text, tap buttons, scroll pages, and enter text only when Sanni explicitly asks. Marco never monitors the screen silently and always asks confirmation before sensitive actions.</string>
+    <string name="notification_listener_label">Marco AI Notification Reader</string>
+    <string name="notification_channel_voice_name">Marco Voice Assistant</string>
+    <string name="notification_channel_voice_desc">Background voice listening and quick controls for Marco AI</string>
+    <string name="notification_channel_orb_name">Marco Floating Orb</string>
+    <string name="notification_channel_orb_desc">Keeps the movable floating Marco orb active over apps</string>
+    <string name="nav_assistant">Marco</string>
+    <string name="nav_controls">Controls</string>
+    <string name="nav_permissions">Setup</string>
+    <string name="nav_settings">Settings</string>
+    <string name="greeting_default">Hello Sanni! Main Marco hoon. Bataiye, aaj main aapki kya help kar sakta hoon?</string>
+</resources>
